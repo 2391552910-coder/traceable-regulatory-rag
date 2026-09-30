@@ -1,0 +1,17 @@
+# 检索与嵌入
+sentence-transformers==3.1.1     # BGE-M3 稠密向量（本地加载）
+jieba==0.42.1                    # BM25 中文分词
+numpy==1.26.4
+pandas==2.2.3
+
+# 大模型调用（OpenAI 兼容接口：DeepSeek / Qwen 等）
+openai==1.52.2
+
+# 评测与统计
+scipy==1.14.1                    # Wilcoxon 符号秩检验
+scikit-learn==1.5.2              # Cohen's Kappa
+matplotlib==3.9.2                # 实验出图
+
+# 工具
+pyyaml==6.0.2
+tqdm==4.66.5

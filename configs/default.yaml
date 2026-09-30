@@ -1,0 +1,38 @@
+# ============ 默认实验配置 ============
+seed: 42
+
+# 知识库
+knowledge_base:
+  path: data/knowledge_base
+  chunking: clause        # clause（条款级切分，本方法）| window（512字滑窗，消融对照）
+  window_size: 512
+  window_overlap: 64
+
+# 检索
+retrieval:
+  top_k: 5
+  vector_weight: 0.7      # 混合检索融合权重：w·向量 + (1-w)·BM25
+  embedding_model: BAAI/bge-m3
+  embedding_device: cpu
+  embedding_backend: bge  # bge（sentence-transformers）| tfidf（离线冒烟测试）
+  dimension_routing: true # 维度路由检索（本方法）| false（消融对照）
+
+# 大模型（OpenAI 兼容接口）
+llm:
+  base_url: https://api.deepseek.com/v1
+  api_key: ""             # 运行时读取环境变量 LLM_API_KEY
+  model: deepseek-chat
+  temperature: 0.2
+  mock: true              # true=离线模板响应（冒烟测试），false=真实调用
+
+# 生成评测
+generation:
+  modes: [no_rag, naive_rag, ours]   # 三组对照
+  judge_model: deepseek-chat         # LLM-as-judge 评分模型
+  judge_rubric: [faithfulness, coverage, professionalism]
+
+# 实验
+experiment:
+  retrieval_repeats: 1
+  generation_repeats: 3              # 生成重复 3 次取均值（温度 0.2 仍有随机性）
+  results_dir: results
