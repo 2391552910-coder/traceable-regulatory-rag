@@ -3,7 +3,8 @@
 > 本文档用于新对话中的 AI 继续完成 GitHub 推送。仓库本地路径：`/mnt/agents/work/traceable-regulatory-rag`
 > GitHub 仓库：`2391552910-coder/traceable-regulatory-rag`，分支 `main`
 > 推送方式：仅能通过 GitHub MCP 工具 `push_files`（沙箱内无 git 凭据，已验证）。
-> 上次更新：2026-09-30 会话。所有 commit 均在 main 分支。
+> 上次更新：2026-10-01 会话（本机 git/SSH 推送，非 MCP）。所有 commit 均在 main 分支。
+> **全部推送已完成**：315/315 个知识库 txt 已在 main（另有 4 个早期演示文档 DOC001-DOC004 保留在库中）。
 
 ## 已推送（请勿重复推送）
 
@@ -18,10 +19,17 @@
 | 批 11 | `DOC054`-`DOC068`（15 个处罚决定 txt） | `35126686` |
 | 批 20 | `DOC154`-`DOC168`（15 个处罚决定 txt） | `1fbbaf46` |
 | 续批 1 | `DOC005`（公司法）、`DOC006`（证券投资基金法） | `65d58f7f` |
+| 批 6 | `DOC007`-`DOC029`（23 个法规 txt） | `1172596` |
+| 批 7 | `DOC030`-`DOC081`（33 个 txt） | `635f621` |
+| 批 8 | `DOC082`-`DOC113`（24 个 txt） | `066a65e` |
+| 批 9 | `DOC114`-`DOC132`（12 个 txt） | `bbb5c5f` |
+| 批 10 | `DOC133`-`DOC191`（39 个 txt，含最大单文件 DOC133） | `7990d17` |
+| 批 11 | `DOC192`-`DOC288`（97 个处罚决定 txt） | `564a7fd` |
+| 批 12 | `DOC289`-`DOC343`（51 个 txt）+ `collection_manifest*.json`×3 | `921afe2` |
 
-知识库 txt 已推送 36/315。其余 279 个 txt + 3 个 collection_manifest*.json 未推送。
+## 续推批次
 
-## 续推批次（按此顺序，每批一次 push_files，读完立即推）
+已全部推送完毕（见上表批 6-12），本节保留原批次划分仅作存档：
 
 - 续批2（8个，约187KB）：DOC007-DOC014
 - 续批3（10个，约175KB）：DOC015-DOC024
