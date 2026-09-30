@@ -40,14 +40,21 @@ class LLMClient:
                                "professionalism": 4, "comment": "mock judge"},
                               ensure_ascii=False)
         # 从提示词中提取第一条法规编号，生成带引用的模板评价
-        m = re.search(r"\[1\] 《(.+?)》", prompt)
+        # 注：法规标题可能含《》（如"【第215号令】《XX办法》"），故匹配至 "》（来源）" 边界
+        m = re.search(r"\[1\] 《(.+)》 ?（", prompt)
         title = m.group(1) if m else "上市公司信息披露管理办法"
-        citation = {"title": title.split(" 第")[0],
-                    "clause": "第" + title.split(" 第")[1] if " 第" in title else "第二十一条",
-                    "used_for": "mock 引用"}
+        if " 第" in title:
+            # 提示词行内带条款号：拆出真实条款号
+            title_part, clause_part = title.split(" 第", 1)
+            clause = "第" + clause_part
+        else:
+            # 无条款号信息：clause 置 None（对齐时按法规名匹配），不编造条款
+            title_part, clause = title, None
+        citation = {"title": title_part, "clause": clause, "used_for": "mock 引用"}
+        clause_txt = citation["clause"] or ""
         return json.dumps({
-            "evaluation": f"（mock）依据《{citation['title']}》{citation['clause']}，"
-                          f"该公司相关自律表现总体合规。【依据：《{citation['title']}》{citation['clause']}】",
+            "evaluation": f"（mock）依据《{citation['title']}》{clause_txt}，"
+                          f"该公司相关自律表现总体合规。【依据：《{citation['title']}》{clause_txt}】",
             "strengths": ["mock 优势"], "weaknesses": ["mock 不足"],
             "score": 80, "citations": [citation],
         }, ensure_ascii=False)

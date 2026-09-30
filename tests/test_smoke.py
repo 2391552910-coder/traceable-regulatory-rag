@@ -21,7 +21,10 @@ def test_clause_splitting():
     docs = load_documents(ROOT / "data" / "knowledge_base")
     chunks = [c for d in docs for c in split_document(d, "clause")]
     assert len(chunks) >= 8
-    assert all(c.clause_no for c in chunks[:2])
+    # 法规类文档条款号解析率应较高（处罚/通报类无"第X条"结构，允许整块）
+    reg_chunks = [c for c in chunks if c.doc_id in {d["doc_id"] for d in docs if d["doc_type"] == "regulation"}]
+    ratio = sum(1 for c in reg_chunks if c.clause_no) / max(len(reg_chunks), 1)
+    assert ratio > 0.8, f"法规条款号解析率 {ratio:.2%} 过低"
     window = [c for d in docs for c in split_document(d, "window", window_size=100, overlap=20)]
     assert len(window) > len(chunks)
 

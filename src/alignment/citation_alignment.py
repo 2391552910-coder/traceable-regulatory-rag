@@ -1,3 +1,4 @@
+import re
 """
 证据对齐（本方法贡献）：模型引用 ↔ 检索命中 比对
 
@@ -27,11 +28,21 @@ def align_citations(citations: list[dict],
     return aligned
 
 
+def _normalize_title(t: str) -> str:
+    """法规标题归一化：去令号/公告前缀、书名号、修订/试行/节选标记"""
+    t = re.sub(r"【第[^】]*】", "", t)
+    t = re.sub(r"（[^）]*(?:修订|试行|节选|年版?)[^）]*）", "", t)
+    t = re.sub(r"\(\d{4}[^)]*\)", "", t)
+    t = re.sub(r"关于修改[《〈＜].{0,30}决定》?的?", "", t)
+    return re.sub(r"[《》〈＜\s]", "", t).strip()
+
+
 def _title_match(a: str, b: str) -> bool:
-    """法规标题宽松匹配（容忍"（节选）""（2021修订）"等后缀差异）"""
-    a = a.replace("（节选）", "").strip()
-    b = b.replace("（节选）", "").strip()
-    return a in b or b in a
+    """法规标题宽松匹配（归一化后双向子串，容忍令号/修订标记差异）"""
+    na, nb = _normalize_title(a), _normalize_title(b)
+    if not na or not nb:
+        return False
+    return na in nb or nb in na
 
 
 def citation_stats(aligned: list[dict]) -> dict:

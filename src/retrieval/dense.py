@@ -21,26 +21,30 @@ class DenseRetriever:
                 texts, normalize_embeddings=True)
         elif backend == "tfidf":
             from sklearn.feature_extraction.text import TfidfVectorizer
+            from sklearn.preprocessing import normalize as sp_normalize
             from src.retrieval.bm25 import tokenize
-            self._vectorizer = TfidfVectorizer(tokenizer=tokenize)
+            # 限制特征上限 + 保持稀疏矩阵，避免大规模语料下稠密化 OOM
+            self._vectorizer = TfidfVectorizer(tokenizer=tokenize,
+                                               max_features=60000, min_df=2)
             corpus = [c.text for c in chunks]
-            self._matrix = self._vectorizer.fit_transform(corpus).toarray()
-            norms = np.linalg.norm(self._matrix, axis=1, keepdims=True)
-            self._matrix = self._matrix / np.clip(norms, 1e-9, None)
+            self._matrix = sp_normalize(self._vectorizer.fit_transform(corpus))
+            self._sparse = True
 
             def _encode(texts):
-                m = self._vectorizer.transform(texts).toarray()
-                norms = np.linalg.norm(m, axis=1, keepdims=True)
-                return m / np.clip(norms, 1e-9, None)
+                return sp_normalize(self._vectorizer.transform(texts))
             self._encode = _encode
         else:
             raise ValueError(f"未知嵌入后端: {backend}")
+        self._sparse = backend == "tfidf"
 
         if backend == "bge":
             self._matrix = self._encode([c.text for c in chunks])
 
     def search(self, query: str, top_k: int = 5) -> list[tuple[Chunk, float]]:
-        q_vec = self._encode([query])[0]
-        scores = self._matrix @ q_vec
+        q_vec = self._encode([query])
+        if self._sparse:
+            scores = (self._matrix @ q_vec.T).toarray().ravel()
+        else:
+            scores = self._matrix @ q_vec[0]
         idx = np.argsort(-scores)[:top_k]
         return [(self.chunks[i], float(scores[i])) for i in idx]
