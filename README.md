@@ -25,8 +25,9 @@ src/
 ├── metrics/       Recall@k/MRR/nDCG、LLM-judge、Wilcoxon、Cohen's Kappa
 └── pipeline.py    端到端流水线
 experiments/       01 知识库构建统计  02 检索评测  03 生成评测  04 消融  05 显著性检验  06 出图
-data/              示例法规语料（4 篇演示条目）+ 检索评测集 + 公司事实样本
-docs/              实验设计与流程.md（论文实验部分底稿）、标注规范.md
+scripts/           知识库采集脚本（国家法律法规数据库 + 证监会官网 + 处罚决定书）
+data/              监管知识库（315 篇：法规 84 + 处罚决定 212 + 案件通报 19）+ 检索评测集（40 条）+ 公司事实样本
+docs/              实验设计与流程.md（论文实验部分底稿）、标注规范.md、知识库采集说明.md
 tests/             冒烟测试（离线可跑）
 ```
 
@@ -58,6 +59,16 @@ export LLM_API_KEY=sk-xxx        # DeepSeek API Key
 python experiments/03_generation_evaluation.py --repeats 3
 ```
 
+## 知识库
+
+`data/knowledge_base/` 已扩充为 **315 篇真实监管语料**（法规 84 + 证监会行政处罚决定 212 +
+重大案件通报 19，条款级切分 7,840 块），覆盖四维度：D1 信息披露 / D2 董事会治理 /
+D3 内控合规 / D4 第三方声誉。采集方法、质量控制与增量更新见 `docs/知识库采集说明.md`。
+
+> 仓库内置 24 篇骨干法规 + 全部处罚/通报样例；完整 315 篇语料可用脚本一键重建
+> （约 30 分钟，增量幂等）：
+> `python scripts/collect_regulations.py && python scripts/collect_csrc.py && python scripts/collect_penalties.py --pages 26`
+
 ## 实验总览
 
 | 实验 | 脚本 | 研究问题 | 输出 |
@@ -70,7 +81,5 @@ python experiments/03_generation_evaluation.py --repeats 3
 
 ## 说明
 
-- `data/knowledge_base/` 内 4 篇法规为**演示条目**（真实条文节选），正式实验请替换为
-  ≥200 篇完整语料（格式见文件头注释）；
 - 引用格式约定：【依据：《法规名》第X条】，由 `generation/evaluator.py` 正则抽取；
 - 与"基于大模型的上市公司主体自律评价系统"仓库配套：系统产出评价与证据，本仓库负责方法与实验验证。
