@@ -1,0 +1,3152 @@
+[
+  {
+    "doc_id": "DOC005",
+    "title": "中华人民共和国公司法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "2023-12-29",
+    "dimension": "D1",
+    "chars": 32543,
+    "file": "DOC005_中华人民共和国公司法.txt"
+  },
+  {
+    "doc_id": "DOC006",
+    "title": "中华人民共和国证券投资基金法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "2015-04-24",
+    "dimension": "D1",
+    "chars": 21666,
+    "file": "DOC006_中华人民共和国证券投资基金法.txt"
+  },
+  {
+    "doc_id": "DOC007",
+    "title": "中华人民共和国证券法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "2019-12-28",
+    "dimension": "D1",
+    "chars": 34318,
+    "file": "DOC007_中华人民共和国证券法.txt"
+  },
+  {
+    "doc_id": "DOC008",
+    "title": "企业信息公示暂行条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2024-03-10",
+    "dimension": "D1",
+    "chars": 3483,
+    "file": "DOC008_企业信息公示暂行条例.txt"
+  },
+  {
+    "doc_id": "DOC009",
+    "title": "企业债券管理条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2011-01-08",
+    "dimension": "D1",
+    "chars": 2924,
+    "file": "DOC009_企业债券管理条例.txt"
+  },
+  {
+    "doc_id": "DOC010",
+    "title": "国务院关于实施《中华人民共和国公司法》注册资本登记管理制度的规定",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2024-07-01",
+    "dimension": "D1",
+    "chars": 1294,
+    "file": "DOC010_国务院关于实施中华人民共和国公司法注册资本登记管.txt"
+  },
+  {
+    "doc_id": "DOC011",
+    "title": "国务院关于规范中介机构为公司公开发行股票提供服务的规定",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2025-01-10",
+    "dimension": "D1",
+    "chars": 1834,
+    "file": "DOC011_国务院关于规范中介机构为公司公开发行股票提供服务.txt"
+  },
+  {
+    "doc_id": "DOC012",
+    "title": "股票发行与交易管理暂行条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "1993-04-22",
+    "dimension": "D1",
+    "chars": 12696,
+    "file": "DOC012_股票发行与交易管理暂行条例.txt"
+  },
+  {
+    "doc_id": "DOC013",
+    "title": "融资担保公司监督管理条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2017-08-02",
+    "dimension": "D1",
+    "chars": 5739,
+    "file": "DOC013_融资担保公司监督管理条例.txt"
+  },
+  {
+    "doc_id": "DOC014",
+    "title": "证券交易所风险基金管理暂行办法",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2016-02-06",
+    "dimension": "D1",
+    "chars": 1132,
+    "file": "DOC014_证券交易所风险基金管理暂行办法.txt"
+  },
+  {
+    "doc_id": "DOC015",
+    "title": "证券公司监督管理条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2014-07-29",
+    "dimension": "D1",
+    "chars": 13799,
+    "file": "DOC015_证券公司监督管理条例.txt"
+  },
+  {
+    "doc_id": "DOC016",
+    "title": "证券公司风险处置条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2023-07-20",
+    "dimension": "D3",
+    "chars": 8170,
+    "file": "DOC016_证券公司风险处置条例.txt"
+  },
+  {
+    "doc_id": "DOC017",
+    "title": "证券期货行政执法当事人承诺制度实施办法",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2021-10-26",
+    "dimension": "D1",
+    "chars": 3382,
+    "file": "DOC017_证券期货行政执法当事人承诺制度实施办法.txt"
+  },
+  {
+    "doc_id": "DOC018",
+    "title": "金融资产管理公司条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2000-11-10",
+    "dimension": "D1",
+    "chars": 2671,
+    "file": "DOC018_金融资产管理公司条例.txt"
+  },
+  {
+    "doc_id": "DOC019",
+    "title": "中华人民共和国外商投资法",
+    "type": "regulation",
+    "source": "全国人民代表大会",
+    "date": "2019-03-15",
+    "dimension": "D2",
+    "chars": 4239,
+    "file": "DOC019_中华人民共和国外商投资法.txt"
+  },
+  {
+    "doc_id": "DOC020",
+    "title": "中华人民共和国外商投资法实施条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2019-12-26",
+    "dimension": "D2",
+    "chars": 6797,
+    "file": "DOC020_中华人民共和国外商投资法实施条例.txt"
+  },
+  {
+    "doc_id": "DOC021",
+    "title": "企业投资项目核准和备案管理条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2016-11-30",
+    "dimension": "D2",
+    "chars": 3158,
+    "file": "DOC021_企业投资项目核准和备案管理条例.txt"
+  },
+  {
+    "doc_id": "DOC022",
+    "title": "国务院关于对外投资的规定",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2026-05-05",
+    "dimension": "D2",
+    "chars": 4821,
+    "file": "DOC022_国务院关于对外投资的规定.txt"
+  },
+  {
+    "doc_id": "DOC023",
+    "title": "国家自然科学基金条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2024-11-08",
+    "dimension": "D2",
+    "chars": 7972,
+    "file": "DOC023_国家自然科学基金条例.txt"
+  },
+  {
+    "doc_id": "DOC024",
+    "title": "政府投资条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2019-04-14",
+    "dimension": "D2",
+    "chars": 4182,
+    "file": "DOC024_政府投资条例.txt"
+  },
+  {
+    "doc_id": "DOC025",
+    "title": "私募投资基金监督管理条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2023-07-03",
+    "dimension": "D2",
+    "chars": 10444,
+    "file": "DOC025_私募投资基金监督管理条例.txt"
+  },
+  {
+    "doc_id": "DOC026",
+    "title": "衡水湖保护和治理条例",
+    "type": "regulation",
+    "source": "河北省人民代表大会常务委员会",
+    "date": "2026-07-23",
+    "dimension": "D2",
+    "chars": 7459,
+    "file": "DOC026_衡水湖保护和治理条例.txt"
+  },
+  {
+    "doc_id": "DOC027",
+    "title": "中华人民共和国个人独资企业法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "1999-08-30",
+    "dimension": "D3",
+    "chars": 3903,
+    "file": "DOC027_中华人民共和国个人独资企业法.txt"
+  },
+  {
+    "doc_id": "DOC028",
+    "title": "中华人民共和国企业国有资产法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "2008-10-28",
+    "dimension": "D3",
+    "chars": 8595,
+    "file": "DOC028_中华人民共和国企业国有资产法.txt"
+  },
+  {
+    "doc_id": "DOC029",
+    "title": "中华人民共和国企业破产法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "2006-08-27",
+    "dimension": "D3",
+    "chars": 15190,
+    "file": "DOC029_中华人民共和国企业破产法.txt"
+  },
+  {
+    "doc_id": "DOC030",
+    "title": "中华人民共和国会计法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "2024-06-28",
+    "dimension": "D3",
+    "chars": 6678,
+    "file": "DOC030_中华人民共和国会计法.txt"
+  },
+  {
+    "doc_id": "DOC031",
+    "title": "中华人民共和国反洗钱法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "2024-11-08",
+    "dimension": "D3",
+    "chars": 11212,
+    "file": "DOC031_中华人民共和国反洗钱法.txt"
+  },
+  {
+    "doc_id": "DOC032",
+    "title": "中华人民共和国合伙企业法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "2006-08-27",
+    "dimension": "D3",
+    "chars": 10188,
+    "file": "DOC032_中华人民共和国合伙企业法.txt"
+  },
+  {
+    "doc_id": "DOC033",
+    "title": "中华人民共和国审计法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "2021-10-23",
+    "dimension": "D3",
+    "chars": 6633,
+    "file": "DOC033_中华人民共和国审计法.txt"
+  },
+  {
+    "doc_id": "DOC034",
+    "title": "中华人民共和国审计法实施条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2010-02-11",
+    "dimension": "D3",
+    "chars": 8187,
+    "file": "DOC034_中华人民共和国审计法实施条例.txt"
+  },
+  {
+    "doc_id": "DOC035",
+    "title": "中华人民共和国期货和衍生品法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "2022-04-20",
+    "dimension": "D3",
+    "chars": 23136,
+    "file": "DOC035_中华人民共和国期货和衍生品法.txt"
+  },
+  {
+    "doc_id": "DOC036",
+    "title": "中华人民共和国注册会计师法",
+    "type": "regulation",
+    "source": "全国人民代表大会常务委员会",
+    "date": "2014-08-31",
+    "dimension": "D3",
+    "chars": 4718,
+    "file": "DOC036_中华人民共和国注册会计师法.txt"
+  },
+  {
+    "doc_id": "DOC037",
+    "title": "企业国有资产监督管理暂行条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2019-03-02",
+    "dimension": "D3",
+    "chars": 5156,
+    "file": "DOC037_企业国有资产监督管理暂行条例.txt"
+  },
+  {
+    "doc_id": "DOC038",
+    "title": "企业财务会计报告条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2000-06-21",
+    "dimension": "D3",
+    "chars": 6088,
+    "file": "DOC038_企业财务会计报告条例.txt"
+  },
+  {
+    "doc_id": "DOC039",
+    "title": "国有企业管理人员处分条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2024-05-21",
+    "dimension": "D3",
+    "chars": 9805,
+    "file": "DOC039_国有企业管理人员处分条例.txt"
+  },
+  {
+    "doc_id": "DOC040",
+    "title": "总会计师条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2011-01-08",
+    "dimension": "D3",
+    "chars": 2534,
+    "file": "DOC040_总会计师条例.txt"
+  },
+  {
+    "doc_id": "DOC041",
+    "title": "控制对企业进行经济检查的规定",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "1999-07-23",
+    "dimension": "D3",
+    "chars": 1995,
+    "file": "DOC041_控制对企业进行经济检查的规定.txt"
+  },
+  {
+    "doc_id": "DOC042",
+    "title": "期货交易管理条例",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "2017-03-01",
+    "dimension": "D3",
+    "chars": 15379,
+    "file": "DOC042_期货交易管理条例.txt"
+  },
+  {
+    "doc_id": "DOC043",
+    "title": "证券、期货投资咨询管理暂行办法",
+    "type": "regulation",
+    "source": "国务院",
+    "date": "1997-12-25",
+    "dimension": "D3",
+    "chars": 5244,
+    "file": "DOC043_证券期货投资咨询管理暂行办法.txt"
+  },
+  {
+    "doc_id": "DOC044",
+    "title": "中华人民共和国行政处罚法",
+    "type": "regulation",
+    "source": "全国人民代表大会",
+    "date": "2021-01-22",
+    "dimension": "D4",
+    "chars": 10420,
+    "file": "DOC044_中华人民共和国行政处罚法.txt"
+  },
+  {
+    "doc_id": "DOC045",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-11-24",
+    "dimension": "D1",
+    "chars": 2549,
+    "file": "DOC045_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC046",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-08-28",
+    "dimension": "D1",
+    "chars": 4227,
+    "file": "DOC046_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC047",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-08-25",
+    "dimension": "D1",
+    "chars": 3195,
+    "file": "DOC047_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC048",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-08-18",
+    "dimension": "D1",
+    "chars": 787,
+    "file": "DOC048_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC049",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-08-18",
+    "dimension": "D1",
+    "chars": 899,
+    "file": "DOC049_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC050",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-08-18",
+    "dimension": "D1",
+    "chars": 752,
+    "file": "DOC050_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC051",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-08-18",
+    "dimension": "D1",
+    "chars": 884,
+    "file": "DOC051_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC052",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-08-17",
+    "dimension": "D1",
+    "chars": 4239,
+    "file": "DOC052_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC053",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-07-17",
+    "dimension": "D1",
+    "chars": 4754,
+    "file": "DOC053_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC054",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-07-13",
+    "dimension": "D1",
+    "chars": 2648,
+    "file": "DOC054_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC055",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-07-13",
+    "dimension": "D1",
+    "chars": 2625,
+    "file": "DOC055_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC056",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-06-30",
+    "dimension": "D1",
+    "chars": 2482,
+    "file": "DOC056_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC057",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-04-21",
+    "dimension": "D1",
+    "chars": 1873,
+    "file": "DOC057_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC058",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-04-07",
+    "dimension": "D1",
+    "chars": 5066,
+    "file": "DOC058_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC059",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-04-07",
+    "dimension": "D1",
+    "chars": 3983,
+    "file": "DOC059_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC060",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-07-13",
+    "dimension": "D3",
+    "chars": 2625,
+    "file": "DOC060_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC061",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-09-01",
+    "dimension": "D3",
+    "chars": 1233,
+    "file": "DOC061_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC062",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-09-01",
+    "dimension": "D3",
+    "chars": 1169,
+    "file": "DOC062_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC063",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-09-01",
+    "dimension": "D3",
+    "chars": 1004,
+    "file": "DOC063_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC064",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-08-18",
+    "dimension": "D3",
+    "chars": 1130,
+    "file": "DOC064_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC065",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-07-31",
+    "dimension": "D3",
+    "chars": 943,
+    "file": "DOC065_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC066",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-07-21",
+    "dimension": "D3",
+    "chars": 1041,
+    "file": "DOC066_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC067",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-07-17",
+    "dimension": "D3",
+    "chars": 1197,
+    "file": "DOC067_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC068",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-07-17",
+    "dimension": "D3",
+    "chars": 1275,
+    "file": "DOC068_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC069",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-06-24",
+    "dimension": "D3",
+    "chars": 1225,
+    "file": "DOC069_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC070",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-08-28",
+    "dimension": "D3",
+    "chars": 4227,
+    "file": "DOC070_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC071",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-11-28",
+    "dimension": "D3",
+    "chars": 2769,
+    "file": "DOC071_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC072",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-11-28",
+    "dimension": "D3",
+    "chars": 5047,
+    "file": "DOC072_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC073",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-11-25",
+    "dimension": "D3",
+    "chars": 6088,
+    "file": "DOC073_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC074",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-11-24",
+    "dimension": "D3",
+    "chars": 2549,
+    "file": "DOC074_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC075",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-10-27",
+    "dimension": "D3",
+    "chars": 3310,
+    "file": "DOC075_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC076",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-10-17",
+    "dimension": "D3",
+    "chars": 1682,
+    "file": "DOC076_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC077",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-10-17",
+    "dimension": "D3",
+    "chars": 3900,
+    "file": "DOC077_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC078",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-10-10",
+    "dimension": "D3",
+    "chars": 5377,
+    "file": "DOC078_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC079",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-09-28",
+    "dimension": "D3",
+    "chars": 3854,
+    "file": "DOC079_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC080",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-07-11",
+    "dimension": "D3",
+    "chars": 3487,
+    "file": "DOC080_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC081",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-07-04",
+    "dimension": "D3",
+    "chars": 5200,
+    "file": "DOC081_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC082",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-04-29",
+    "dimension": "D3",
+    "chars": 5215,
+    "file": "DOC082_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC083",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-04-29",
+    "dimension": "D3",
+    "chars": 3145,
+    "file": "DOC083_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC084",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-01-30",
+    "dimension": "D4",
+    "chars": 974,
+    "file": "DOC084_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC085",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-05-26",
+    "dimension": "D4",
+    "chars": 834,
+    "file": "DOC085_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC086",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-05-26",
+    "dimension": "D4",
+    "chars": 834,
+    "file": "DOC086_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC087",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-01-30",
+    "dimension": "D4",
+    "chars": 1000,
+    "file": "DOC087_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC088",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-01-09",
+    "dimension": "D4",
+    "chars": 2876,
+    "file": "DOC088_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC089",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-11-27",
+    "dimension": "D4",
+    "chars": 2631,
+    "file": "DOC089_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC090",
+    "title": "【第108号令】《关于修改〈上市公司收购管理办法〉的决定》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2014-07-07",
+    "dimension": "D1",
+    "chars": 28276,
+    "file": "DOC090_【第108号令】关于修改〈上市公司收购管理办法〉.txt"
+  },
+  {
+    "doc_id": "DOC092",
+    "title": "【第10号令】上市公司收购管理办法(已废止)",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2002-09-28",
+    "dimension": "D1",
+    "chars": 9772,
+    "file": "DOC092_【第10号令】上市公司收购管理办法已废止.txt"
+  },
+  {
+    "doc_id": "DOC093",
+    "title": "【第11号公告】《公开发行证券的公司信息披露内容与格式准则第34号——发行优先股募集说明书》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-02-17",
+    "dimension": "D1",
+    "chars": 217,
+    "file": "DOC093_【第11号公告】公开发行证券的公司信息披露内容与.txt"
+  },
+  {
+    "doc_id": "DOC094",
+    "title": "【第206号令】《上市公司证券发行注册管理办法》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-02-17",
+    "dimension": "D1",
+    "chars": 14149,
+    "file": "DOC094_【第206号令】上市公司证券发行注册管理办法.txt"
+  },
+  {
+    "doc_id": "DOC095",
+    "title": "【第209号令】《优先股试点管理办法》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-02-17",
+    "dimension": "D1",
+    "chars": 9464,
+    "file": "DOC095_【第209号令】优先股试点管理办法.txt"
+  },
+  {
+    "doc_id": "DOC096",
+    "title": "【第211号令】《北京证券交易所上市公司证券发行注册管理办法》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-02-17",
+    "dimension": "D1",
+    "chars": 212,
+    "file": "DOC096_【第211号令】北京证券交易所上市公司证券发行注.txt"
+  },
+  {
+    "doc_id": "DOC097",
+    "title": "【第214号令】《上市公司重大资产重组管理办法》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-02-17",
+    "dimension": "D1",
+    "chars": 16435,
+    "file": "DOC097_【第214号令】上市公司重大资产重组管理办法.txt"
+  },
+  {
+    "doc_id": "DOC098",
+    "title": "【第215号令】《存托凭证发行与交易管理办法（试行）》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-02-17",
+    "dimension": "D1",
+    "chars": 10836,
+    "file": "DOC098_【第215号令】存托凭证发行与交易管理办法试行.txt"
+  },
+  {
+    "doc_id": "DOC099",
+    "title": "【第224号令】《上市公司股东减持股份管理暂行办法》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2024-05-23",
+    "dimension": "D1",
+    "chars": 4436,
+    "file": "DOC099_【第224号令】上市公司股东减持股份管理暂行办法.txt"
+  },
+  {
+    "doc_id": "DOC100",
+    "title": "【第226号令】《上市公司信息披露管理办法》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2025-02-28",
+    "dimension": "D1",
+    "chars": 11408,
+    "file": "DOC100_【第226号令】上市公司信息披露管理办法.txt"
+  },
+  {
+    "doc_id": "DOC102",
+    "title": "【第35号公告】《公开发行证券的公司信息披露内容与格式准则第26号——上市公司重大资产重组》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-02-17",
+    "dimension": "D1",
+    "chars": 213,
+    "file": "DOC102_【第35号公告】公开发行证券的公司信息披露内容与.txt"
+  },
+  {
+    "doc_id": "DOC106",
+    "title": "【第5号公告】《公开募集证券投资基金信息披露内容与格式准则第2号—定期报告的内容与格式》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2026-03-13",
+    "dimension": "D1",
+    "chars": 238,
+    "file": "DOC106_【第5号公告】公开募集证券投资基金信息披露内容与.txt"
+  },
+  {
+    "doc_id": "DOC107",
+    "title": "【第63号公告】《上市公司股份回购规则》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-12-15",
+    "dimension": "D1",
+    "chars": 5443,
+    "file": "DOC107_【第63号公告】上市公司股份回购规则.txt"
+  },
+  {
+    "doc_id": "DOC108",
+    "title": "【第9号公告】《公开发行证券的公司信息披露内容与格式准则第32号——发行优先股申请文件》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-02-17",
+    "dimension": "D1",
+    "chars": 214,
+    "file": "DOC108_【第9号公告】公开发行证券的公司信息披露内容与格.txt"
+  },
+  {
+    "doc_id": "DOC110",
+    "title": "上市公司收购管理办法",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2026-08-01",
+    "dimension": "D1",
+    "chars": 20913,
+    "file": "DOC110_上市公司收购管理办法.txt"
+  },
+  {
+    "doc_id": "DOC113",
+    "title": "创业板上市公司证券发行注册管理办法（试行）",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2026-08-01",
+    "dimension": "D1",
+    "chars": 13982,
+    "file": "DOC113_创业板上市公司证券发行注册管理办法试行.txt"
+  },
+  {
+    "doc_id": "DOC114",
+    "title": "北京证券交易所上市公司证券发行注册管理办法（试行）",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2026-08-01",
+    "dimension": "D1",
+    "chars": 11149,
+    "file": "DOC114_北京证券交易所上市公司证券发行注册管理办法试行.txt"
+  },
+  {
+    "doc_id": "DOC116",
+    "title": "科创板上市公司证券发行注册管理办法（试行）",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2026-08-01",
+    "dimension": "D1",
+    "chars": 13923,
+    "file": "DOC116_科创板上市公司证券发行注册管理办法试行.txt"
+  },
+  {
+    "doc_id": "DOC118",
+    "title": "【第13号公告】《上市公司股东大会规则（2022年修订）》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2022-01-07",
+    "dimension": "D2",
+    "chars": 7856,
+    "file": "DOC118_【第13号公告】上市公司股东大会规则2022年修.txt"
+  },
+  {
+    "doc_id": "DOC119",
+    "title": "【第148号令】《关于修改〈上市公司股权激励管理办法〉的决定》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2018-01-15",
+    "dimension": "D2",
+    "chars": 208,
+    "file": "DOC119_【第148号令】关于修改〈上市公司股权激励管理办.txt"
+  },
+  {
+    "doc_id": "DOC120",
+    "title": "【第18号公告】《上市公司治理准则》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2026-01-01",
+    "dimension": "D2",
+    "chars": 11846,
+    "file": "DOC120_【第18号公告】上市公司治理准则.txt"
+  },
+  {
+    "doc_id": "DOC121",
+    "title": "【第19号公告】《上市公司董事、监事和高级管理人员所持本公司股份及其变动管理规则（2022年修订）》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2022-01-07",
+    "dimension": "D2",
+    "chars": 2071,
+    "file": "DOC121_【第19号公告】上市公司董事监事和高级管理人员所.txt"
+  },
+  {
+    "doc_id": "DOC122",
+    "title": "【第220号令】《上市公司独立董事管理办法》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-07-28",
+    "dimension": "D2",
+    "chars": 9565,
+    "file": "DOC122_【第220号令】上市公司独立董事管理办法.txt"
+  },
+  {
+    "doc_id": "DOC128",
+    "title": "【第6号公告】《上市公司章程指引》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2025-03-28",
+    "dimension": "D2",
+    "chars": 33525,
+    "file": "DOC128_【第6号公告】上市公司章程指引.txt"
+  },
+  {
+    "doc_id": "DOC129",
+    "title": "上市公司股权激励管理办法",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2026-08-01",
+    "dimension": "D2",
+    "chars": 11174,
+    "file": "DOC129_上市公司股权激励管理办法.txt"
+  },
+  {
+    "doc_id": "DOC130",
+    "title": "【第14号公告】《上市公司监管指引第10号——市值管理》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2024-11-15",
+    "dimension": "D3",
+    "chars": 3087,
+    "file": "DOC130_【第14号公告】上市公司监管指引第10号——市值.txt"
+  },
+  {
+    "doc_id": "DOC131",
+    "title": "【第2号公告】《上市公司监管指引第11号——上市公司破产重整相关事项》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2025-03-14",
+    "dimension": "D3",
+    "chars": 2762,
+    "file": "DOC131_【第2号公告】上市公司监管指引第11号——上市公.txt"
+  },
+  {
+    "doc_id": "DOC132",
+    "title": "【第6号公告】《证券公司投资银行类业务内部控制指引》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2018-03-23",
+    "dimension": "D3",
+    "chars": 12792,
+    "file": "DOC132_【第6号公告】证券公司投资银行类业务内部控制指引.txt"
+  },
+  {
+    "doc_id": "DOC133",
+    "title": "会计师事务所从事证券服务业务合规手册",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2022-01-06",
+    "dimension": "D3",
+    "chars": 107818,
+    "file": "DOC133_会计师事务所从事证券服务业务合规手册.txt"
+  },
+  {
+    "doc_id": "DOC134",
+    "title": "会计师事务所从事证券服务业务备案指南",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2020-08-20",
+    "dimension": "D3",
+    "chars": 1167,
+    "file": "DOC134_会计师事务所从事证券服务业务备案指南.txt"
+  },
+  {
+    "doc_id": "DOC135",
+    "title": "【第119号令】《中国证券监督管理委员会行政处罚听证规则》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2015-03-11",
+    "dimension": "D4",
+    "chars": 4102,
+    "file": "DOC135_【第119号令】中国证券监督管理委员会行政处罚听.txt"
+  },
+  {
+    "doc_id": "DOC136",
+    "title": "【第185号令】《证券市场禁入规定》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2021-06-01",
+    "dimension": "D4",
+    "chars": 4533,
+    "file": "DOC136_【第185号令】证券市场禁入规定.txt"
+  },
+  {
+    "doc_id": "DOC137",
+    "title": "【第21号公告】《上市公司现场检查规则》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2022-01-05",
+    "dimension": "D4",
+    "chars": 3174,
+    "file": "DOC137_【第21号公告】上市公司现场检查规则.txt"
+  },
+  {
+    "doc_id": "DOC141",
+    "title": "证券期货市场诚信监督管理办法",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2021-03-05",
+    "dimension": "D4",
+    "chars": 8449,
+    "file": "DOC141_证券期货市场诚信监督管理办法.txt"
+  },
+  {
+    "doc_id": "DOC144",
+    "title": "中国证监会行政处罚决定书〔2026〕45号",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D4",
+    "chars": 1233,
+    "file": "DOC144_中国证监会行政处罚决定书202645号.txt"
+  },
+  {
+    "doc_id": "DOC145",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 618,
+    "file": "DOC145_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC146",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 725,
+    "file": "DOC146_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC147",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 1548,
+    "file": "DOC147_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC148",
+    "title": "中国证监会行政处罚决定书（张姣（曾用名张蛟）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 629,
+    "file": "DOC148_中国证监会行政处罚决定书张姣曾用名张蛟.txt"
+  },
+  {
+    "doc_id": "DOC149",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 740,
+    "file": "DOC149_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC150",
+    "title": "中国证监会行政处罚决定书（中国银河证券有限责任公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 880,
+    "file": "DOC150_中国证监会行政处罚决定书中国银河证券有限责任公司.txt"
+  },
+  {
+    "doc_id": "DOC151",
+    "title": "中国证监会行政处罚决定书（重庆东源钢业股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 641,
+    "file": "DOC151_中国证监会行政处罚决定书重庆东源钢业股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC152",
+    "title": "中国证监会行政处罚决定书（国信证券有限责任公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 812,
+    "file": "DOC152_中国证监会行政处罚决定书国信证券有限责任公司.txt"
+  },
+  {
+    "doc_id": "DOC153",
+    "title": "中国证监会行政处罚决定书（国泰君安证券股份有限公司深圳华发路证券营业部）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 932,
+    "file": "DOC153_中国证监会行政处罚决定书国泰君安证券股份有限公司深圳.txt"
+  },
+  {
+    "doc_id": "DOC154",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 892,
+    "file": "DOC154_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC155",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 641,
+    "file": "DOC155_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC156",
+    "title": "中国证监会行政处罚决定书（安徽省国际信托投资公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 805,
+    "file": "DOC156_中国证监会行政处罚决定书安徽省国际信托投资公司.txt"
+  },
+  {
+    "doc_id": "DOC157",
+    "title": "中国证监会行政处罚决定书（安徽国元房地产发展有限公司（原安徽省安信房地产发展公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 808,
+    "file": "DOC157_中国证监会行政处罚决定书安徽国元房地产发展有限公司原.txt"
+  },
+  {
+    "doc_id": "DOC158",
+    "title": "中国证监会行政处罚决定书（湖北方成实业有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1338,
+    "file": "DOC158_中国证监会行政处罚决定书湖北方成实业有限公司.txt"
+  },
+  {
+    "doc_id": "DOC159",
+    "title": "中国证监会行政处罚决定书（深圳市通富达实业发展有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 2004,
+    "file": "DOC159_中国证监会行政处罚决定书深圳市通富达实业发展有限公司.txt"
+  },
+  {
+    "doc_id": "DOC160",
+    "title": "中国证监会行政处罚决定书（云南证券有限责任公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 796,
+    "file": "DOC160_中国证监会行政处罚决定书云南证券有限责任公司.txt"
+  },
+  {
+    "doc_id": "DOC161",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1145,
+    "file": "DOC161_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC162",
+    "title": "中国证监会行政处罚决定书（内蒙古宁城老窖生物科技股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 794,
+    "file": "DOC162_中国证监会行政处罚决定书内蒙古宁城老窖生物科技股份有.txt"
+  },
+  {
+    "doc_id": "DOC163",
+    "title": "中国证监会行政处罚决定书（大盈现代农业股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 725,
+    "file": "DOC163_中国证监会行政处罚决定书大盈现代农业股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC164",
+    "title": "中国证监会行政处罚决定书（联合证券有限责任公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 1063,
+    "file": "DOC164_中国证监会行政处罚决定书联合证券有限责任公司.txt"
+  },
+  {
+    "doc_id": "DOC165",
+    "title": "中国证监会行政处罚决定书（内蒙古宏峰实业股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1186,
+    "file": "DOC165_中国证监会行政处罚决定书内蒙古宏峰实业股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC166",
+    "title": "中国证监会行政处罚决定书（江苏瑞明钢材集团有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 935,
+    "file": "DOC166_中国证监会行政处罚决定书江苏瑞明钢材集团有限公司.txt"
+  },
+  {
+    "doc_id": "DOC167",
+    "title": "中国证监会行政处罚决定书（汕头金恒信资产管理公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1287,
+    "file": "DOC167_中国证监会行政处罚决定书汕头金恒信资产管理公司.txt"
+  },
+  {
+    "doc_id": "DOC168",
+    "title": "中国证监会行政处罚决定书（南通纵横国际股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 800,
+    "file": "DOC168_中国证监会行政处罚决定书南通纵横国际股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC169",
+    "title": "中国证监会行政处罚决定书（泰阳证券有限责任公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 990,
+    "file": "DOC169_中国证监会行政处罚决定书泰阳证券有限责任公司.txt"
+  },
+  {
+    "doc_id": "DOC170",
+    "title": "中国证监会行政处罚决定书（大连证券有限责任公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 889,
+    "file": "DOC170_中国证监会行政处罚决定书大连证券有限责任公司.txt"
+  },
+  {
+    "doc_id": "DOC171",
+    "title": "中国证监会行政处罚决定书（鞍山信托投资股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 872,
+    "file": "DOC171_中国证监会行政处罚决定书鞍山信托投资股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC172",
+    "title": "中国证监会行政处罚决定书（平安证券有限责任公司乌鲁木齐证券交易部）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1225,
+    "file": "DOC172_中国证监会行政处罚决定书平安证券有限责任公司乌鲁木齐.txt"
+  },
+  {
+    "doc_id": "DOC173",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 570,
+    "file": "DOC173_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC174",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 2413,
+    "file": "DOC174_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC175",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 376,
+    "file": "DOC175_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC176",
+    "title": "中国证监会行政处罚决定书（原海南港澳国际信托公司沈阳证券营业部）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1505,
+    "file": "DOC176_中国证监会行政处罚决定书原海南港澳国际信托公司沈阳证.txt"
+  },
+  {
+    "doc_id": "DOC177",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1098,
+    "file": "DOC177_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC178",
+    "title": "中国证监会行政处罚决定书（上海上证吉龙投资咨询有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1000,
+    "file": "DOC178_中国证监会行政处罚决定书上海上证吉龙投资咨询有限公司.txt"
+  },
+  {
+    "doc_id": "DOC179",
+    "title": "中国证监会行政处罚决定书（深圳怡龙投资股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 806,
+    "file": "DOC179_中国证监会行政处罚决定书深圳怡龙投资股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC180",
+    "title": "中国证监会行政处罚决定书〔2001〕64号（陕西煤航数码测绘（集团）股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 3364,
+    "file": "DOC180_中国证监会行政处罚决定书200164号陕西煤航数码测.txt"
+  },
+  {
+    "doc_id": "DOC181",
+    "title": "中国证监会行政处罚决定书（合肥丰乐种业股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 4924,
+    "file": "DOC181_中国证监会行政处罚决定书合肥丰乐种业股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC182",
+    "title": "中国证监会行政处罚决定书（烟台华联发展集团股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 2535,
+    "file": "DOC182_中国证监会行政处罚决定书烟台华联发展集团股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC183",
+    "title": "中国证监会行政处罚决定书（河南银鸽实业投资股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 2238,
+    "file": "DOC183_中国证监会行政处罚决定书河南银鸽实业投资股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC184",
+    "title": "中国证监会行政处罚决定书（鲁银投资集团股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1591,
+    "file": "DOC184_中国证监会行政处罚决定书鲁银投资集团股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC185",
+    "title": "中国证监会行政处罚决定书（山东省中鲁远洋渔业股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 5454,
+    "file": "DOC185_中国证监会行政处罚决定书山东省中鲁远洋渔业股份有限公.txt"
+  },
+  {
+    "doc_id": "DOC186",
+    "title": "中国证监会行政处罚决定书（河南凯陆实业有限公司（原名河南省森威商务有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 766,
+    "file": "DOC186_中国证监会行政处罚决定书河南凯陆实业有限公司原名河南.txt"
+  },
+  {
+    "doc_id": "DOC187",
+    "title": "中国证监会行政处罚决定书（中炬高新技术实业（集团）股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 2322,
+    "file": "DOC187_中国证监会行政处罚决定书中炬高新技术实业集团股份有限.txt"
+  },
+  {
+    "doc_id": "DOC188",
+    "title": "中国证监会行政处罚决定书（湖南金健米业股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1837,
+    "file": "DOC188_中国证监会行政处罚决定书湖南金健米业股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC189",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 860,
+    "file": "DOC189_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC190",
+    "title": "中国证监会行政处罚决定书（天津环球磁卡股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 2418,
+    "file": "DOC190_中国证监会行政处罚决定书天津环球磁卡股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC191",
+    "title": "中国证监会行政处罚决定书（广州南华西实业股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 3023,
+    "file": "DOC191_中国证监会行政处罚决定书广州南华西实业股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC192",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 2391,
+    "file": "DOC192_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC193",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 790,
+    "file": "DOC193_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC194",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D4",
+    "chars": 3213,
+    "file": "DOC194_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC195",
+    "title": "中国证监会行政处罚决定书（大连菲菲澳家现代农业股份有限公司（原大连盛道集团股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 3673,
+    "file": "DOC195_中国证监会行政处罚决定书大连菲菲澳家现代农业股份有限.txt"
+  },
+  {
+    "doc_id": "DOC196",
+    "title": "中国证监会行政处罚决定书（宏智科技股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 3314,
+    "file": "DOC196_中国证监会行政处罚决定书宏智科技股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC197",
+    "title": "中国证监会行政处罚决定书〔2001〕64号（福建省神龙发展股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 6360,
+    "file": "DOC197_中国证监会行政处罚决定书200164号福建省神龙发展.txt"
+  },
+  {
+    "doc_id": "DOC198",
+    "title": "中国证监会行政处罚决定书（白银铜城商厦(集团)股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 5022,
+    "file": "DOC198_中国证监会行政处罚决定书白银铜城商厦集团股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC199",
+    "title": "中国证监会行政处罚决定书（五联联合会计师事务所有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1340,
+    "file": "DOC199_中国证监会行政处罚决定书五联联合会计师事务所有限公司.txt"
+  },
+  {
+    "doc_id": "DOC200",
+    "title": "中国证监会行政处罚决定书（南通纵横国际股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 6704,
+    "file": "DOC200_中国证监会行政处罚决定书南通纵横国际股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC201",
+    "title": "中国证监会行政处罚决定书（中谷期货经纪有限公司（以下称“中谷期货）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1431,
+    "file": "DOC201_中国证监会行政处罚决定书中谷期货经纪有限公司以下称“.txt"
+  },
+  {
+    "doc_id": "DOC202",
+    "title": "中国证监会行政处罚决定书（中垦农业资源开发股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 2602,
+    "file": "DOC202_中国证监会行政处罚决定书中垦农业资源开发股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC203",
+    "title": "中国证监会行政处罚决定书（中国四川国际合作股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 3174,
+    "file": "DOC203_中国证监会行政处罚决定书中国四川国际合作股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC204",
+    "title": "中国证监会行政处罚决定书（深圳南山热电股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 1784,
+    "file": "DOC204_中国证监会行政处罚决定书深圳南山热电股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC205",
+    "title": "中国证监会行政处罚决定书（新疆啤酒花股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1310,
+    "file": "DOC205_中国证监会行政处罚决定书新疆啤酒花股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC206",
+    "title": "中国证监会行政处罚决定书（宁夏英力特化工股份有限公司（原宁夏宁河民族化工股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 2574,
+    "file": "DOC206_中国证监会行政处罚决定书宁夏英力特化工股份有限公司原.txt"
+  },
+  {
+    "doc_id": "DOC207",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 1581,
+    "file": "DOC207_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC208",
+    "title": "中国证监会行政处罚决定书（东方资产评估事务所有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1057,
+    "file": "DOC208_中国证监会行政处罚决定书东方资产评估事务所有限公司.txt"
+  },
+  {
+    "doc_id": "DOC209",
+    "title": "中国证监会行政处罚决定书（无锡小天鹅股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1794,
+    "file": "DOC209_中国证监会行政处罚决定书无锡小天鹅股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC210",
+    "title": "中国证监会行政处罚决定书（重庆长江水运股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 3617,
+    "file": "DOC210_中国证监会行政处罚决定书重庆长江水运股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC211",
+    "title": "中国证监会行政处罚决定书（中油龙昌（集团）股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 2514,
+    "file": "DOC211_中国证监会行政处罚决定书中油龙昌集团股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC212",
+    "title": "中国证监会行政处罚决定书（上海国嘉实业股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 2416,
+    "file": "DOC212_中国证监会行政处罚决定书上海国嘉实业股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC213",
+    "title": "中国证监会行政处罚决定书（云南恒丰期货经纪有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1712,
+    "file": "DOC213_中国证监会行政处罚决定书云南恒丰期货经纪有限公司.txt"
+  },
+  {
+    "doc_id": "DOC214",
+    "title": "中国证监会行政处罚决定书（济南轻骑摩托车股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 2732,
+    "file": "DOC214_中国证监会行政处罚决定书济南轻骑摩托车股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC215",
+    "title": "中国证监会行政处罚决定书（四砂股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1829,
+    "file": "DOC215_中国证监会行政处罚决定书四砂股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC216",
+    "title": "中国证监会行政处罚决定书（上海自动化仪表股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 2577,
+    "file": "DOC216_中国证监会行政处罚决定书上海自动化仪表股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC217",
+    "title": "中国证监会行政处罚决定书（上海物资贸易中心股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1595,
+    "file": "DOC217_中国证监会行政处罚决定书上海物资贸易中心股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC218",
+    "title": "中国证监会行政处罚决定书（京都期货经纪有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 2052,
+    "file": "DOC218_中国证监会行政处罚决定书京都期货经纪有限公司.txt"
+  },
+  {
+    "doc_id": "DOC219",
+    "title": "中国证监会行政处罚决定书（郑州宇通客车股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1772,
+    "file": "DOC219_中国证监会行政处罚决定书郑州宇通客车股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC220",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 1652,
+    "file": "DOC220_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC221",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1750,
+    "file": "DOC221_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC222",
+    "title": "中国证监会行政处罚决定书（北京京都会计师事务所有限责任公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1295,
+    "file": "DOC222_中国证监会行政处罚决定书北京京都会计师事务所有限责任.txt"
+  },
+  {
+    "doc_id": "DOC223",
+    "title": "中国证监会行政处罚决定书（天发石油股份有限公司（原湖北天发股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 2528,
+    "file": "DOC223_中国证监会行政处罚决定书天发石油股份有限公司原湖北天.txt"
+  },
+  {
+    "doc_id": "DOC224",
+    "title": "中国证监会行政处罚决定书（大连北大科技（集团）股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1528,
+    "file": "DOC224_中国证监会行政处罚决定书大连北大科技集团股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC225",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1082,
+    "file": "DOC225_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC226",
+    "title": "中国证监会行政处罚决定书（广东康元会计师事务所有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1451,
+    "file": "DOC226_中国证监会行政处罚决定书广东康元会计师事务所有限公司.txt"
+  },
+  {
+    "doc_id": "DOC227",
+    "title": "中国证监会行政处罚决定书（吉粮发期货经纪有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1420,
+    "file": "DOC227_中国证监会行政处罚决定书吉粮发期货经纪有限公司.txt"
+  },
+  {
+    "doc_id": "DOC228",
+    "title": "中国证监会行政处罚决定书（深圳新基业期货经纪有限公司（以下称“新基业公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D2",
+    "chars": 1329,
+    "file": "DOC228_中国证监会行政处罚决定书深圳新基业期货经纪有限公司以.txt"
+  },
+  {
+    "doc_id": "DOC229",
+    "title": "中国证监会行政处罚决定书（上海东华会计师事务所有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1367,
+    "file": "DOC229_中国证监会行政处罚决定书上海东华会计师事务所有限公司.txt"
+  },
+  {
+    "doc_id": "DOC230",
+    "title": "中国证监会行政处罚决定书（华证会计师事务所有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1274,
+    "file": "DOC230_中国证监会行政处罚决定书华证会计师事务所有限公司.txt"
+  },
+  {
+    "doc_id": "DOC231",
+    "title": "中国证监会行政处罚决定书（四川华信（集团）会计师事务所有限责任公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1412,
+    "file": "DOC231_中国证监会行政处罚决定书四川华信集团会计师事务所有限.txt"
+  },
+  {
+    "doc_id": "DOC232",
+    "title": "中国证监会行政处罚决定书（重庆万里蓄电池股份有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1458,
+    "file": "DOC232_中国证监会行政处罚决定书重庆万里蓄电池股份有限公司.txt"
+  },
+  {
+    "doc_id": "DOC233",
+    "title": "中国证监会行政处罚决定书（广东正中会计师事务所有限公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1244,
+    "file": "DOC233_中国证监会行政处罚决定书广东正中会计师事务所有限公司.txt"
+  },
+  {
+    "doc_id": "DOC234",
+    "title": "中国证监会行政处罚决定书（河南华为会计师事务所有限责任公司）",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1217,
+    "file": "DOC234_中国证监会行政处罚决定书河南华为会计师事务所有限责任.txt"
+  },
+  {
+    "doc_id": "DOC235",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 670,
+    "file": "DOC235_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC236",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D1",
+    "chars": 1138,
+    "file": "DOC236_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC237",
+    "title": "中国证监会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "",
+    "dimension": "D3",
+    "chars": 1091,
+    "file": "DOC237_中国证监会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC238",
+    "title": "证监会依法对3宗案件作出行政处罚",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2019-05-10",
+    "dimension": "D1",
+    "chars": 509,
+    "file": "DOC238_证监会依法对3宗案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC239",
+    "title": "证监会依法对5宗案件作出行政处罚",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2019-07-26",
+    "dimension": "D1",
+    "chars": 1012,
+    "file": "DOC239_证监会依法对5宗案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC240",
+    "title": "证监会对1宗案件作出行政处罚",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2017-09-22",
+    "dimension": "D1",
+    "chars": 303,
+    "file": "DOC240_证监会对1宗案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC241",
+    "title": "证监会对6宗案件作出行政处罚",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2018-07-13",
+    "dimension": "D1",
+    "chars": 1347,
+    "file": "DOC241_证监会对6宗案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC242",
+    "title": "中国证监会对天山股份副总经理陈建良内幕交易案作出行政处罚",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2007-05-23",
+    "dimension": "D4",
+    "chars": 1211,
+    "file": "DOC242_中国证监会对天山股份副总经理陈建良内幕交易案作出.txt"
+  },
+  {
+    "doc_id": "DOC243",
+    "title": "证监会依法对4宗内幕交易案件作出行政处罚",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2019-02-22",
+    "dimension": "D4",
+    "chars": 609,
+    "file": "DOC243_证监会依法对4宗内幕交易案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC244",
+    "title": "证监会依法对一起公安机关移送的内幕交易案作出行政处罚",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2020-06-24",
+    "dimension": "D4",
+    "chars": 803,
+    "file": "DOC244_证监会依法对一起公安机关移送的内幕交易案作出行政.txt"
+  },
+  {
+    "doc_id": "DOC245",
+    "title": "证监会对2宗案件作出行政处罚及市场禁入",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2016-09-09",
+    "dimension": "D4",
+    "chars": 849,
+    "file": "DOC245_证监会对2宗案件作出行政处罚及市场禁入.txt"
+  },
+  {
+    "doc_id": "DOC246",
+    "title": "证监会对3宗案件作出行政处罚及市场禁入",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2016-08-19",
+    "dimension": "D4",
+    "chars": 1600,
+    "file": "DOC246_证监会对3宗案件作出行政处罚及市场禁入.txt"
+  },
+  {
+    "doc_id": "DOC247",
+    "title": "证监会对3宗案件作出行政处罚及市场禁入",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2016-08-05",
+    "dimension": "D4",
+    "chars": 1417,
+    "file": "DOC247_证监会对3宗案件作出行政处罚及市场禁入.txt"
+  },
+  {
+    "doc_id": "DOC248",
+    "title": "证监会对4宗操纵ETF案作出行政处罚",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2018-10-19",
+    "dimension": "D4",
+    "chars": 981,
+    "file": "DOC248_证监会对4宗操纵ETF案作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC249",
+    "title": "证监会对4宗案件作出行政处罚及市场禁入",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2016-08-26",
+    "dimension": "D4",
+    "chars": 1717,
+    "file": "DOC249_证监会对4宗案件作出行政处罚及市场禁入.txt"
+  },
+  {
+    "doc_id": "DOC250",
+    "title": "证监会对4宗案件作出行政处罚及市场禁入",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2016-07-29",
+    "dimension": "D4",
+    "chars": 2473,
+    "file": "DOC250_证监会对4宗案件作出行政处罚及市场禁入.txt"
+  },
+  {
+    "doc_id": "DOC251",
+    "title": "证监会对5宗案件作出行政处罚及市场禁入",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2016-07-15",
+    "dimension": "D4",
+    "chars": 1765,
+    "file": "DOC251_证监会对5宗案件作出行政处罚及市场禁入.txt"
+  },
+  {
+    "doc_id": "DOC252",
+    "title": "证监会对5宗案件作出行政处罚及市场禁入决定",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2016-02-19",
+    "dimension": "D4",
+    "chars": 1402,
+    "file": "DOC252_证监会对5宗案件作出行政处罚及市场禁入决定.txt"
+  },
+  {
+    "doc_id": "DOC253",
+    "title": "证监会对6宗案件作出行政处罚及市场禁入",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2016-09-02",
+    "dimension": "D4",
+    "chars": 1873,
+    "file": "DOC253_证监会对6宗案件作出行政处罚及市场禁入.txt"
+  },
+  {
+    "doc_id": "DOC254",
+    "title": "证监会对“胶合板1502”期货合约操纵案作出行政处罚",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2016-01-15",
+    "dimension": "D4",
+    "chars": 651,
+    "file": "DOC254_证监会对“胶合板1502”期货合约操纵案作出行政.txt"
+  },
+  {
+    "doc_id": "DOC255",
+    "title": "证监会对“胶合板1502”期货合约操纵案作出行政处罚",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2016-01-15",
+    "dimension": "D4",
+    "chars": 651,
+    "file": "DOC255_证监会对“胶合板1502”期货合约操纵案作出行政.txt"
+  },
+  {
+    "doc_id": "DOC256",
+    "title": "证监会拟对4宗内幕交易案及1宗编造传播虚假信息案作出行政处罚",
+    "type": "announcement",
+    "source": "中国证监会",
+    "date": "2015-10-16",
+    "dimension": "D4",
+    "chars": 1436,
+    "file": "DOC256_证监会拟对4宗内幕交易案及1宗编造传播虚假信息案.txt"
+  },
+  {
+    "doc_id": "DOC257",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-03-19",
+    "dimension": "D1",
+    "chars": 866,
+    "file": "DOC257_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC258",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-02-27",
+    "dimension": "D1",
+    "chars": 3617,
+    "file": "DOC258_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC259",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-02-27",
+    "dimension": "D1",
+    "chars": 3248,
+    "file": "DOC259_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC260",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-01-30",
+    "dimension": "D1",
+    "chars": 974,
+    "file": "DOC260_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC261",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-12-25",
+    "dimension": "D1",
+    "chars": 2116,
+    "file": "DOC261_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC262",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-12-24",
+    "dimension": "D1",
+    "chars": 3279,
+    "file": "DOC262_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC263",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-11-26",
+    "dimension": "D1",
+    "chars": 2799,
+    "file": "DOC263_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC264",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-11-19",
+    "dimension": "D1",
+    "chars": 2298,
+    "file": "DOC264_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC265",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-11-05",
+    "dimension": "D1",
+    "chars": 2236,
+    "file": "DOC265_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC266",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-10-27",
+    "dimension": "D1",
+    "chars": 3571,
+    "file": "DOC266_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC267",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-09-28",
+    "dimension": "D1",
+    "chars": 2856,
+    "file": "DOC267_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC268",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-09-05",
+    "dimension": "D1",
+    "chars": 1873,
+    "file": "DOC268_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC269",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-09-02",
+    "dimension": "D1",
+    "chars": 3808,
+    "file": "DOC269_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC270",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-08-22",
+    "dimension": "D1",
+    "chars": 2026,
+    "file": "DOC270_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC271",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-07-28",
+    "dimension": "D1",
+    "chars": 2304,
+    "file": "DOC271_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC272",
+    "title": "证监会依法对2宗信息披露违法案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-04-12",
+    "dimension": "D1",
+    "chars": 553,
+    "file": "DOC272_证监会依法对2宗信息披露违法案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC273",
+    "title": "证监会依法对3宗信息披露违法案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-08-30",
+    "dimension": "D1",
+    "chars": 671,
+    "file": "DOC273_证监会依法对3宗信息披露违法案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC274",
+    "title": "证监会依法对3宗信息披露违法案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-08-09",
+    "dimension": "D1",
+    "chars": 739,
+    "file": "DOC274_证监会依法对3宗信息披露违法案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC275",
+    "title": "证监会依法对5宗信息披露违法案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-07-19",
+    "dimension": "D1",
+    "chars": 974,
+    "file": "DOC275_证监会依法对5宗信息披露违法案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC276",
+    "title": "证监会依法对7宗信息披露违法案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-06-28",
+    "dimension": "D1",
+    "chars": 1365,
+    "file": "DOC276_证监会依法对7宗信息披露违法案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC277",
+    "title": "证监会对2宗信息披露违法违规案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2018-12-28",
+    "dimension": "D1",
+    "chars": 516,
+    "file": "DOC277_证监会对2宗信息披露违法违规案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC278",
+    "title": "证监会对3宗信息披露违法案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2018-07-20",
+    "dimension": "D1",
+    "chars": 998,
+    "file": "DOC278_证监会对3宗信息披露违法案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC279",
+    "title": "证监会对5宗信息披露违法违规案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2018-09-28",
+    "dimension": "D1",
+    "chars": 1513,
+    "file": "DOC279_证监会对5宗信息披露违法违规案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC280",
+    "title": "证监会派出机构对2 宗信息披露违法违规案作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2016-03-25",
+    "dimension": "D1",
+    "chars": 755,
+    "file": "DOC280_证监会派出机构对2宗信息披露违法违规案作出行政处.txt"
+  },
+  {
+    "doc_id": "DOC281",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-05-25",
+    "dimension": "D3",
+    "chars": 1078,
+    "file": "DOC281_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC282",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-05-25",
+    "dimension": "D3",
+    "chars": 947,
+    "file": "DOC282_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC283",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-05-25",
+    "dimension": "D3",
+    "chars": 958,
+    "file": "DOC283_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC284",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-04-27",
+    "dimension": "D3",
+    "chars": 1300,
+    "file": "DOC284_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC285",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-04-16",
+    "dimension": "D3",
+    "chars": 1073,
+    "file": "DOC285_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC286",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-04-16",
+    "dimension": "D3",
+    "chars": 1136,
+    "file": "DOC286_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC287",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-04-16",
+    "dimension": "D3",
+    "chars": 1346,
+    "file": "DOC287_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC288",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-04-13",
+    "dimension": "D3",
+    "chars": 978,
+    "file": "DOC288_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC289",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2026-04-13",
+    "dimension": "D3",
+    "chars": 1047,
+    "file": "DOC289_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC290",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-04-14",
+    "dimension": "D3",
+    "chars": 1534,
+    "file": "DOC290_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC291",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-03-21",
+    "dimension": "D3",
+    "chars": 2826,
+    "file": "DOC291_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC292",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-03-20",
+    "dimension": "D3",
+    "chars": 3867,
+    "file": "DOC292_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC293",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-03-10",
+    "dimension": "D3",
+    "chars": 1018,
+    "file": "DOC293_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC294",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-03-05",
+    "dimension": "D3",
+    "chars": 3998,
+    "file": "DOC294_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC295",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-02-27",
+    "dimension": "D3",
+    "chars": 2410,
+    "file": "DOC295_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC296",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-02-24",
+    "dimension": "D3",
+    "chars": 4268,
+    "file": "DOC296_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC297",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-02-18",
+    "dimension": "D3",
+    "chars": 5221,
+    "file": "DOC297_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC298",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-02-10",
+    "dimension": "D3",
+    "chars": 4885,
+    "file": "DOC298_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC299",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-01-20",
+    "dimension": "D3",
+    "chars": 5327,
+    "file": "DOC299_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC300",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-01-08",
+    "dimension": "D3",
+    "chars": 3224,
+    "file": "DOC300_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC301",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2024-12-20",
+    "dimension": "D3",
+    "chars": 2910,
+    "file": "DOC301_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC302",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2024-12-17",
+    "dimension": "D3",
+    "chars": 7480,
+    "file": "DOC302_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC303",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2024-12-03",
+    "dimension": "D3",
+    "chars": 1939,
+    "file": "DOC303_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC304",
+    "title": "证监会对*ST普利重大财务造假案依法从严行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-03-21",
+    "dimension": "D3",
+    "chars": 416,
+    "file": "DOC304_证监会对*ST普利重大财务造假案依法从严行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC305",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-06-05",
+    "dimension": "D4",
+    "chars": 4148,
+    "file": "DOC305_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC306",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-05-29",
+    "dimension": "D4",
+    "chars": 1241,
+    "file": "DOC306_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC307",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-05-19",
+    "dimension": "D4",
+    "chars": 1015,
+    "file": "DOC307_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC308",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-05-14",
+    "dimension": "D4",
+    "chars": 1201,
+    "file": "DOC308_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC309",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-04-30",
+    "dimension": "D4",
+    "chars": 930,
+    "file": "DOC309_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC310",
+    "title": "中国证券监督管理委员会行政处罚决定书",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2025-04-30",
+    "dimension": "D4",
+    "chars": 692,
+    "file": "DOC310_中国证券监督管理委员会行政处罚决定书.txt"
+  },
+  {
+    "doc_id": "DOC311",
+    "title": "证监会依法对2宗内幕交易案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-09-06",
+    "dimension": "D4",
+    "chars": 542,
+    "file": "DOC311_证监会依法对2宗内幕交易案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC312",
+    "title": "证监会依法对2宗内幕交易案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-03-29",
+    "dimension": "D4",
+    "chars": 433,
+    "file": "DOC312_证监会依法对2宗内幕交易案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC313",
+    "title": "证监会依法对3宗内幕交易案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-06-14",
+    "dimension": "D4",
+    "chars": 781,
+    "file": "DOC313_证监会依法对3宗内幕交易案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC314",
+    "title": "证监会依法对3宗内幕交易案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-05-24",
+    "dimension": "D4",
+    "chars": 697,
+    "file": "DOC314_证监会依法对3宗内幕交易案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC315",
+    "title": "证监会依法对5宗内幕交易案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-08-23",
+    "dimension": "D4",
+    "chars": 901,
+    "file": "DOC315_证监会依法对5宗内幕交易案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC316",
+    "title": "证监会依法对5宗内幕交易案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-06-21",
+    "dimension": "D4",
+    "chars": 943,
+    "file": "DOC316_证监会依法对5宗内幕交易案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC317",
+    "title": "证监会对2宗操纵市场案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2018-11-16",
+    "dimension": "D4",
+    "chars": 482,
+    "file": "DOC317_证监会对2宗操纵市场案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC318",
+    "title": "证监会对4宗内幕交易案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2018-11-09",
+    "dimension": "D4",
+    "chars": 559,
+    "file": "DOC318_证监会对4宗内幕交易案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC319",
+    "title": "证监会对4宗内幕交易案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2018-10-12",
+    "dimension": "D4",
+    "chars": 933,
+    "file": "DOC319_证监会对4宗内幕交易案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC320",
+    "title": "证监会对4宗操纵市场案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2018-09-21",
+    "dimension": "D4",
+    "chars": 903,
+    "file": "DOC320_证监会对4宗操纵市场案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC321",
+    "title": "证监会对5宗操纵市场案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-08-10",
+    "dimension": "D4",
+    "chars": 1058,
+    "file": "DOC321_证监会对5宗操纵市场案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC322",
+    "title": "证监会对7宗内幕交易案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2018-09-14",
+    "dimension": "D4",
+    "chars": 1259,
+    "file": "DOC322_证监会对7宗内幕交易案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC323",
+    "title": "证监会对7宗内幕交易案件作出行政处罚",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2018-08-17",
+    "dimension": "D4",
+    "chars": 726,
+    "file": "DOC323_证监会对7宗内幕交易案件作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC324",
+    "title": "证监会对方正证券信息披露违法等4宗案件作出行政处罚和市场禁入",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2017-05-05",
+    "dimension": "D4",
+    "chars": 1080,
+    "file": "DOC324_证监会对方正证券信息披露违法等4宗案件作出行政处.txt"
+  },
+  {
+    "doc_id": "DOC325",
+    "title": "证监会对深大通等作出行政处罚及市场禁入事先告知",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2019-07-26",
+    "dimension": "D4",
+    "chars": 600,
+    "file": "DOC325_证监会对深大通等作出行政处罚及市场禁入事先告知.txt"
+  },
+  {
+    "doc_id": "DOC326",
+    "title": "证监会对獐子岛公司案作出行政处罚及市场禁入决定",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2020-06-24",
+    "dimension": "D4",
+    "chars": 777,
+    "file": "DOC326_证监会对獐子岛公司案作出行政处罚及市场禁入决定.txt"
+  },
+  {
+    "doc_id": "DOC327",
+    "title": "证监会开出首张债券欺诈发行罚单对五洋建设等作出行政处罚和市场禁入",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2018-07-06",
+    "dimension": "D4",
+    "chars": 969,
+    "file": "DOC327_证监会开出首张债券欺诈发行罚单对五洋建设等作出行.txt"
+  },
+  {
+    "doc_id": "DOC328",
+    "title": "证监会拟对北京文化及相关责任人员依法作出行政处罚并采取市场禁入措施",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2021-08-27",
+    "dimension": "D4",
+    "chars": 440,
+    "file": "DOC328_证监会拟对北京文化及相关责任人员依法作出行政处罚.txt"
+  },
+  {
+    "doc_id": "DOC329",
+    "title": "证监会通报对内幕交易、操纵市场、信披违规等4宗案件行政处罚情况",
+    "type": "penalty",
+    "source": "中国证监会",
+    "date": "2016-06-03",
+    "dimension": "D4",
+    "chars": 1449,
+    "file": "DOC329_证监会通报对内幕交易操纵市场信披违规等4宗案件行.txt"
+  },
+  {
+    "doc_id": "DOC331",
+    "title": "【第159号令】关于修改《上市公司重大资产重组管理办法》的决定",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2019-10-18",
+    "dimension": "D1",
+    "chars": 227,
+    "file": "DOC331_【第159号令】关于修改上市公司重大资产重组管理.txt"
+  },
+  {
+    "doc_id": "DOC335",
+    "title": "【第56号令】关于修改《上市公司收购管理办法》第六十三条的决定",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2008-08-27",
+    "dimension": "D1",
+    "chars": 20695,
+    "file": "DOC335_【第56号令】关于修改上市公司收购管理办法第六十.txt"
+  },
+  {
+    "doc_id": "DOC336",
+    "title": "中国证监会修订发布《公开募集证券投资基金信息披露内容与格式准则第2号—定期报告的内容与格式》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2026-03-13",
+    "dimension": "D1",
+    "chars": 578,
+    "file": "DOC336_中国证监会修订发布公开募集证券投资基金信息披露内.txt"
+  },
+  {
+    "doc_id": "DOC337",
+    "title": "中国证监会发布关于修改《证券发行与承销管理办法》的决定",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2025-03-28",
+    "dimension": "D1",
+    "chars": 791,
+    "file": "DOC337_中国证监会发布关于修改证券发行与承销管理办法的决.txt"
+  },
+  {
+    "doc_id": "DOC338",
+    "title": "中国证监会进一步规范上市公司有关股东减持股份行为 完善上市公司股份减持制度",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2017-05-27",
+    "dimension": "D1",
+    "chars": 1642,
+    "file": "DOC338_中国证监会进一步规范上市公司有关股东减持股份行为.txt"
+  },
+  {
+    "doc_id": "DOC339",
+    "title": "证监会发布《关于修改〈公开发行证券的公司信息披露内容与格式准则第26号——上市公司重大资产重组〉的决定》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-10-27",
+    "dimension": "D1",
+    "chars": 822,
+    "file": "DOC339_证监会发布关于修改〈公开发行证券的公司信息披露内.txt"
+  },
+  {
+    "doc_id": "DOC340",
+    "title": "证监会发布《非上市公众公司监管指引第5号—精选层挂牌公司持续监管指引（试行）》及五项挂牌公司定期报告格式准则",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2020-07-22",
+    "dimension": "D1",
+    "chars": 993,
+    "file": "DOC340_证监会发布非上市公众公司监管指引第5号—精选层挂.txt"
+  },
+  {
+    "doc_id": "DOC341",
+    "title": "证监会发布实施《公司债券发行与交易管理办法》和《公开发行证券的公司信息披露内容与格式准则第24号——公开发行公司债券申请文件》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-10-20",
+    "dimension": "D1",
+    "chars": 945,
+    "file": "DOC341_证监会发布实施公司债券发行与交易管理办法和公开发.txt"
+  },
+  {
+    "doc_id": "DOC342",
+    "title": "【第10号公告】《关于修改〈上市公司章程指引〉的决定》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2019-04-17",
+    "dimension": "D2",
+    "chars": 30359,
+    "file": "DOC342_【第10号公告】关于修改〈上市公司章程指引〉的决.txt"
+  },
+  {
+    "doc_id": "DOC343",
+    "title": "【第62号公告】《关于修改＜上市公司章程指引＞的决定》",
+    "type": "regulation",
+    "source": "中国证监会",
+    "date": "2023-12-15",
+    "dimension": "D2",
+    "chars": 29740,
+    "file": "DOC343_【第62号公告】关于修改＜上市公司章程指引＞的决.txt"
+  }
+]
